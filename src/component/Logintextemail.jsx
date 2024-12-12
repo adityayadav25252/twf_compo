@@ -4,7 +4,7 @@ function Logintextemail() {
   return (
     <div>
       <div className="flex justify-center align-center">
-        <h1 className="text-2xl mb-10 mt-2 font-bold text-center">
+        <h1 className="heading text-2xl mb-10 mt-2 font-bold text-center">
           <span className="text-4xl font-medium">WELCOME</span>
           <br /> TWKSAA WELFARE FOUNDATION!
         </h1>
