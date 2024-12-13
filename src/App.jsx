@@ -1,14 +1,16 @@
-import React from 'react'
-import Logindiv from './component/Logindiv'
-import LoginRight from './component/Loginright'
+import React from "react";
+import Login from "./component/login";
+import Signup from "./component/signup";
+
+
 
 function App() {
   return (
-    <div className="flex flex-col md:flex-row h-screen">
-      <Logindiv />
-      <LoginRight />
-    </div>
-  )
+    <>
+      <Login />
+      <Signup />
+    </>
+  );
 }
 
-export default App
+export default App;

@@ -1,5 +1,5 @@
 import * as React from "react";
-const SVGComponent = (props) => (
+const SVGComponentLogin = (props) => (
 
 
   
@@ -258,4 +258,4 @@ const SVGComponent = (props) => (
     />
   </svg>
 );
-export default SVGComponent;
+export default SVGComponentLogin;
